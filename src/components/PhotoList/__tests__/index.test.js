@@ -15,3 +15,4 @@ describe('PhotoList is rendering', () => {
     expect(asFragment()).toMatchSnapshot()
   });
 });
+
